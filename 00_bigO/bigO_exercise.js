@@ -10,3 +10,4 @@ function funChallenge(input) {
     }
     return a;
   }
+// Check
